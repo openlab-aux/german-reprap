@@ -1,0 +1,25 @@
+# IDE data
+/.settings
+/.project
+/.cproject
+/.vscode
+
+# Temporary configuration
+/Firmware/Configuration_prusa.h
+
+# Temporary language files
+/lang/po/*.mo
+/lang/tmp/
+/lang/Firmware-intl.hex
+/lang/Firmware-intl-en_*.hex
+
+# Temporary files and directories
+*[~#]
+*.tmp
+*.bak
+.DS_Store
+__pycache__
+
+# Generated files
+/build-env/
+/Firmware/Doc/
